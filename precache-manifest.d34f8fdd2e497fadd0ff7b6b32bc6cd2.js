@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "63c0ac864a34255acbc7",
-    "url": "/alex/static/css/main.a2cc5a81.chunk.css"
+    "revision": "9a54a0362b3208441acb",
+    "url": "/alex/static/css/main.4c0133a7.chunk.css"
   },
   {
-    "revision": "63c0ac864a34255acbc7",
-    "url": "/alex/static/js/main.63c0ac86.chunk.js"
+    "revision": "9a54a0362b3208441acb",
+    "url": "/alex/static/js/main.9a54a036.chunk.js"
   },
   {
     "revision": "48dc1c1c87d8faf3dbc4",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/alex/static/media/Union (1).f655a845.svg"
   },
   {
-    "revision": "aebb7d3c9299ef35ead55210f086e3b2",
-    "url": "/alex/static/media/Home.aebb7d3c.svg"
-  },
-  {
     "revision": "174c1b26a8e85914da48ee15ac628f9b",
     "url": "/alex/static/media/Union (2).174c1b26.svg"
+  },
+  {
+    "revision": "aebb7d3c9299ef35ead55210f086e3b2",
+    "url": "/alex/static/media/Home.aebb7d3c.svg"
   },
   {
     "revision": "021ea0ba59acbe7ced782209d6fdf419",
@@ -64,6 +64,10 @@ self.__precacheManifest = [
     "url": "/alex/static/media/Plus (2).fd12cdce.svg"
   },
   {
+    "revision": "942f23cc92b7f223d79b20538541cb8d",
+    "url": "/alex/static/media/Plus (1).942f23cc.svg"
+  },
+  {
     "revision": "fa306def932eb12d68ceb57ac2b262f4",
     "url": "/alex/static/media/Wallet.fa306def.svg"
   },
@@ -72,11 +76,7 @@ self.__precacheManifest = [
     "url": "/alex/static/media/Union.aa963a3e.svg"
   },
   {
-    "revision": "942f23cc92b7f223d79b20538541cb8d",
-    "url": "/alex/static/media/Plus (1).942f23cc.svg"
-  },
-  {
-    "revision": "ed5d1aaeb0e6fbcdd34112b8c94135ed",
+    "revision": "30bdd10bddd638b0b54237fe2a10740f",
     "url": "/alex/index.html"
   }
 ];

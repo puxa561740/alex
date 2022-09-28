@@ -1,16 +1,16 @@
 {
-  "main.css": "/alex/static/css/main.a2cc5a81.chunk.css",
-  "main.js": "/alex/static/js/main.63c0ac86.chunk.js",
-  "main.js.map": "/alex/static/js/main.63c0ac86.chunk.js.map",
+  "main.css": "/alex/static/css/main.4c0133a7.chunk.css",
+  "main.js": "/alex/static/js/main.9a54a036.chunk.js",
+  "main.js.map": "/alex/static/js/main.9a54a036.chunk.js.map",
   "static/js/1.48dc1c1c.chunk.js": "/alex/static/js/1.48dc1c1c.chunk.js",
   "static/js/1.48dc1c1c.chunk.js.map": "/alex/static/js/1.48dc1c1c.chunk.js.map",
   "runtime~main.js": "/alex/static/js/runtime~main.ba78913e.js",
   "runtime~main.js.map": "/alex/static/js/runtime~main.ba78913e.js.map",
   "static/media/MainHederCss.css": "/alex/static/media/Vector.d3bea51a.svg",
   "static/media/MainBalanceCss.css": "/alex/static/media/Vector (3).69d76375.svg",
-  "static/media/App.css": "/alex/static/media/Plus (1).942f23cc.svg",
-  "static/css/main.a2cc5a81.chunk.css.map": "/alex/static/css/main.a2cc5a81.chunk.css.map",
+  "static/media/App.css": "/alex/static/media/Union.aa963a3e.svg",
+  "static/css/main.4c0133a7.chunk.css.map": "/alex/static/css/main.4c0133a7.chunk.css.map",
   "index.html": "/alex/index.html",
-  "precache-manifest.621d924ae0ef7f2c1c9cb8fd6ade953a.js": "/alex/precache-manifest.621d924ae0ef7f2c1c9cb8fd6ade953a.js",
+  "precache-manifest.d34f8fdd2e497fadd0ff7b6b32bc6cd2.js": "/alex/precache-manifest.d34f8fdd2e497fadd0ff7b6b32bc6cd2.js",
   "service-worker.js": "/alex/service-worker.js"
 }
